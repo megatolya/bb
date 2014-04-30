@@ -1,0 +1,22 @@
+{
+  "name": "borschik-bug",
+  "version": "0.0.1",
+  "description": "Yandex Visual Bookmarks 2.0",
+  "author": "Anatoliy Ostrovskiy <forgetthisbox@gmail.com>",
+  "contributors": [
+    {
+      "name": "Anatoliy Ostrovskiy",
+      "email": "megatolya@yandex-team.ru"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.yandex-team.ru/megatolya/borschik-bug"
+    }
+  ],
+  "engine": "node >= 0.8",
+  "dependencies": {
+    "borschik": "~0.3.1"
+  }
+}
