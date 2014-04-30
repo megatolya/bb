@@ -2,16 +2,10 @@
   "name": "borschik-bug",
   "version": "0.0.1",
   "author": "Anatoliy Ostrovskiy <forgetthisbox@gmail.com>",
-  "contributors": [
-    {
-      "name": "Anatoliy Ostrovskiy",
-      "email": "megatolya@yandex-team.ru"
-    }
-  ],
   "repositories": [
     {
       "type": "git",
-      "url": "https://github.yandex-team.ru/megatolya/borschik-bug"
+      "url": "https://github.com/megatolya/borschik-bug"
     }
   ],
   "engine": "node >= 0.8",
