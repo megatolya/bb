@@ -2,9 +2,6 @@ p:first-child {
     filter: url("filters.svg#blur");
 }
 
-/*
-uncomment to test if borschik config is ok.
 div {
     background: url("ololo.png");
 }
-*/

@@ -3,7 +3,8 @@
         "./": "/"
     },
     "freeze_paths" : {
-        "./": "reality/"
+        "./expectation/**.svg": ":base64:",
+        "./expectation/**": "./realty/"
     }
 }
 
